@@ -1,0 +1,63 @@
+.tahoma-text{
+    font-family: Tahoma;
+    font-size:18px;
+    font-weight: bolder;
+
+}
+
+.course-text{
+    font-family: Verdana;
+    font-size:14px;
+    font-weight: bolder;
+}
+.pro-text{
+    color: grey;
+    font-family: Verdana;
+    font-size: 12px;
+}
+.skills-text{
+    font-family: Verdana;
+    font-size: 12px;
+}
+.get-text{
+    color: white;
+    font-family: Verdana;
+    background-color: green;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 80px;
+    padding-left: 6px;
+    padding-right: 6px;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 12px;
+}
+.deals-text{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.sales-text{
+    color: red ;
+    font-style: italic;
+    font-size: 16px;
+    font-family: Arial;
+
+}
+.Shopping-text{
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+.work-text{
+    font-family: Arial;
+    font-size: 13px;
+    text-align: center;
+}
+.learn-text{
+    color: rgb(7, 113, 184);
+    font-size: 13px;
+    font-family: Arial;
+    text-align: center;
+}

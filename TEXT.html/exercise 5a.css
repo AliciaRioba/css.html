@@ -1,0 +1,13 @@
+.model-text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.online-text{
+    font-size: 21px;
+    margin-top: 8px;
+
+}
+.online-link{
+    text-decoration: underline;
+}

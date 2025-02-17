@@ -1,0 +1,94 @@
+.search-textbox{
+    margin-right: 30px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 8px;
+
+}
+.url-textbox{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width: 500px;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.email-text{
+    font-size: 16px;
+    color: grey;
+}
+.email-textbox{ 
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 280px;
+    margin-bottom: 18px;
+    width: 300px;
+    border-color: rgb(185, 180, 180);
+    border-style: solid;
+    border-width: 1.5px;
+
+}
+.disclaimer-text{
+    font-size: 16px;
+    color: rgb(110, 109, 109);
+    margin-top: 2px;
+
+}
+.button-agree{
+    background-color: rgb(0, 118, 187);
+    color: white;
+    border: none;
+    width: 250px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    font-size: 14px;
+
+}
+.pretty-icon{
+    width: 50px;
+    height: 50px;
+    margin-left: 54px;
+    border-radius: 50px;
+    vertical-align: middle;
+    object-fit: cover;
+
+}
+.what-textbox{
+    font-size: 14px;
+    color: grey;
+    margin-left: 4px;
+    vertical-align: middle;
+    border: none;  
+}
+.Tweeet-button{
+    margin-left: 20px;
+    background-color: rgb(0, 110, 255);
+    width: 68px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 13px;
+}
+

@@ -1,0 +1,62 @@
+.name-box{
+    display: block;
+    margin-bottom: 5px;
+}
+.email-box{
+    display: block;
+}
+.support-text{
+    display: inline-block;
+    width: 210px;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+.google-img{
+    width: 200px;
+    object-position:left;
+    display: block;
+    margin-bottom: 20px ;
+    margin-left: 600px;
+
+}
+.google-type{
+    border: none;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+    box-shadow:0 1px 6px rgba(0, 0, 0, 0.5);
+    display: block;
+    margin-left: 500px;
+
+}
+.gs-button{
+    margin-left: 100px;
+    margin-top: 28px;
+    background-color: rgb(225, 225, 225);
+    border: 0px;
+    border-radius: 2px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+.lucky-button{
+    margin-left: 5px;
+    margin-top: 28px;
+    background-color: rgb(225, 225, 225);
+    border: 0px;
+    border-radius: 2px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+.glogo-box{
+    text-align: center;
+    
+}

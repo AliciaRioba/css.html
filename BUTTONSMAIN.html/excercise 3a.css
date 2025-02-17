@@ -1,0 +1,131 @@
+.stretch-button{
+    background-color: green;
+    color: white;
+    border: none;
+    margin-right: 20px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    transition: padding-top 1s, padding-bottom 1s
+    ,padding-left 1s, padding-right 1s;
+}
+
+.stretch-button:hover{
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 32px;
+    padding-right: 32px;
+
+}
+
+
+
+.Shadow-button{
+   background-color: green;
+   color: white;
+   border: none;
+   margin-right: 30px;
+   padding-left: 13px;
+   padding-right: 13px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   cursor: pointer;
+   box-shadow: 3px, 3px,5px rgba(0, 0, 0, 0.6) ;
+
+}
+
+.Shadow-button:active{
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: none;
+   
+}
+
+.one-button{
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 140px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.one-button:active{
+    margin-left: 160px ;
+    margin-right: 26px; 
+    padding-top:12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+
+}
+
+.Two-button{
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 15px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.Two-button:active{
+    margin-left: 26px ;
+    margin-right: 26px;
+    padding-top:12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+
+    
+}
+
+.Three-button{
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 15px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+.Three-button:active{
+    margin-left: 26px ;
+    margin-right: 26px;  
+    padding-top:12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+}
+
+.back-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 12px;
+}
+.next-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 12px;
+    margin-right: 30px;
+
+}
+.search-result{
+    font-size: 18px;
+    margin-left: 8px;
+    margin-right: 8px;
+}

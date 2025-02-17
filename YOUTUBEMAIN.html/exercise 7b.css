@@ -1,0 +1,110 @@
+.first-text{
+    width: 100px;
+    margin-right: 3px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 16px;
+
+    
+
+}
+.last-text{
+    width: 100px;
+    margin-right: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 16px;
+
+}
+.emo-text{
+    display: block;
+    width: 225px;
+    margin-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.up-button{
+    display: block;
+    width: 245px;
+    margin-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    border-radius: 8px;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+.ride-text{
+    font-size: 30px;
+}
+.pickup-box{
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    background-color: rgb(234, 235, 238);
+    display: block;
+    margin-bottom: 20px;
+    width: 300px;
+}
+.desti-box{
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    background-color: rgb(234, 235, 238);
+    display: block;
+    margin-bottom: 20px;
+    width: 300px;
+}
+.now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 20px;
+}
+.later-button{
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 20px; 
+    background-color: rgb(234, 235, 238);
+    color: black;
+    margin-left: 10px;
+
+
+
+}
+
+
